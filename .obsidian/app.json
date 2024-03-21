@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "_posts/images",
+  "attachmentFolderPath": "images",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "showUnsupportedFiles": true
