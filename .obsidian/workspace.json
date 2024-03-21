@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/images/2024-03-20-markdown-2.md",
+                "file": "_posts/2024-03-20-markdown-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/images/2024-03-20-markdown-2.md",
+                "file": "_posts/2024-03-20-markdown-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/images/2024-03-20-markdown-2.md",
+                "file": "_posts/2024-03-20-markdown-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/images/2024-03-20-markdown-2.md"
+                "file": "_posts/2024-03-20-markdown-2.md"
               }
             }
           }
@@ -146,11 +146,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "dbcf6f0fb9abf9f7",
+  "active": "cdf6f145a3f1d698",
   "lastOpenFiles": [
+    "_posts/Pasted image 20240321094704.png",
+    "_posts/2024-03-20-markdown-2.md",
     "_posts/2024-03-20-markdown.md",
-    "_posts/images/2024-03-20-markdown-2.md",
-    "_posts/images/Pasted image 20240321094704.png",
     "README.md",
     "images/Pasted.md",
     "images",
@@ -185,7 +185,6 @@
     "_posts/2012-03-15-layout-header-overlay-image.md",
     "_posts/2012-03-15-layout-header-overlay-image-tagline.md",
     "_posts/2012-03-15-layout-header-overlay-color.md",
-    "_posts/2012-03-15-layout-header-image-vertical.md",
     "docs/screenshot.png",
     "docs/screenshot-layouts.png",
     "docs/assets/images/unsplash-image-9.jpg",
