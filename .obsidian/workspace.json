@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-03-20-markdown-2.md",
+                "file": "_posts/2024-03-20-markdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-03-20-markdown-2.md",
+                "file": "_posts/2024-03-20-markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-03-20-markdown-2.md",
+                "file": "_posts/2024-03-20-markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-03-20-markdown-2.md"
+                "file": "_posts/2024-03-20-markdown.md"
               }
             }
           }
@@ -146,11 +146,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cdf6f145a3f1d698",
+  "active": "dbcf6f0fb9abf9f7",
   "lastOpenFiles": [
+    "_posts/cat-323262.jpg",
+    "_posts/2024-03-20-markdown.md",
+    "_posts/TIL",
+    "_posts/무제 파일.md",
     "_posts/Pasted image 20240321094704.png",
     "_posts/2024-03-20-markdown-2.md",
-    "_posts/2024-03-20-markdown.md",
     "README.md",
     "images/Pasted.md",
     "images",
@@ -184,15 +187,12 @@
     "_posts/2012-03-15-layout-more-tag.md",
     "_posts/2012-03-15-layout-header-overlay-image.md",
     "_posts/2012-03-15-layout-header-overlay-image-tagline.md",
-    "_posts/2012-03-15-layout-header-overlay-color.md",
     "docs/screenshot.png",
     "docs/screenshot-layouts.png",
-    "docs/assets/images/unsplash-image-9.jpg",
     "docs/_data/comments/welcome-to-jekyll/comment-1529792272424.yml",
     "docs/_data/comments/welcome-to-jekyll/comment-1529794012288.yml",
     "docs/_data/comments/welcome-to-jekyll/comment-1507141538771.yml",
     "docs/_data/comments/welcome-to-jekyll/comment-1500505983331.yml",
-    "docs/_data/comments/welcome-to-jekyll/comment-1474328950155.yml",
-    "docs/_data/comments/welcome-to-jekyll/comment-1472786599470.yml"
+    "docs/_data/comments/welcome-to-jekyll/comment-1474328950155.yml"
   ]
 }
