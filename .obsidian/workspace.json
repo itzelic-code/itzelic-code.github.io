@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,11 +148,11 @@
   },
   "active": "dbcf6f0fb9abf9f7",
   "lastOpenFiles": [
+    "_posts/images/Pasted image 20240321094704.png",
+    "_posts/2024-03-20-markdown.md",
     "README.md",
     "images/Pasted.md",
-    "_posts/2024-03-20-markdown.md",
     "images",
-    "_posts/images/Pasted image 20240321094704.png",
     "Pasted image 20240321094607.png",
     "images/${filename}",
     "Pasted image 20240320214122.png",
@@ -186,7 +185,6 @@
     "_posts/2012-03-15-layout-header-overlay-image-tagline.md",
     "_posts/2012-03-15-layout-header-overlay-color.md",
     "_posts/2012-03-15-layout-header-image-vertical.md",
-    "_posts/2012-03-15-layout-header-image-text-readability.md",
     "docs/screenshot.png",
     "docs/screenshot-layouts.png",
     "docs/assets/images/unsplash-image-9.jpg",
