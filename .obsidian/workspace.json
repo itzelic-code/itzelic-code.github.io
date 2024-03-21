@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-03-20-Test-Note.md",
+                "file": "_posts/2024-03-20-markdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:edge",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-03-20-Test-Note.md",
+                "file": "_posts/2024-03-20-markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-03-20-Test-Note.md",
+                "file": "_posts/2024-03-20-markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-03-20-Test-Note.md"
+                "file": "_posts/2024-03-20-markdown.md"
               }
             }
           }
@@ -150,7 +151,7 @@
   "lastOpenFiles": [
     "README.md",
     "images/Pasted.md",
-    "_posts/2024-03-20-Test-Note.md",
+    "_posts/2024-03-20-markdown.md",
     "images",
     "_posts/images/Pasted image 20240321094704.png",
     "Pasted image 20240321094607.png",
