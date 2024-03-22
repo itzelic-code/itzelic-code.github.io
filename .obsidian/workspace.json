@@ -146,8 +146,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cdf6f145a3f1d698",
+  "active": "dbcf6f0fb9abf9f7",
   "lastOpenFiles": [
+    "_pages/image404.png",
+    "_pages/404.md",
     "_posts/블로그 개설 내용.md",
     "_pages/tag-archive.md",
     "_posts/language",
@@ -192,8 +194,6 @@
     "_posts/2013-01-05-markup-title-with-markup.md",
     "_posts/2012-05-22-markup-text-readability.md",
     "_posts/2012-05-22-markup-text-readability-wide-page.md",
-    "_posts/2012-03-15-layout-sidebar-nav-list.md",
-    "_posts/2012-03-15-layout-sidebar-custom.md",
-    "_posts/2012-03-15-layout-more-tag.md"
+    "_posts/2012-03-15-layout-sidebar-nav-list.md"
   ]
 }
