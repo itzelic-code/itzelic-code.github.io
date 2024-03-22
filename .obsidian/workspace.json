@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-03-20-markdown.md",
+                "file": "_posts/블로그 개설 내용.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-03-20-markdown.md",
+                "file": "_posts/블로그 개설 내용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-03-20-markdown.md",
+                "file": "_posts/블로그 개설 내용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-03-20-markdown.md"
+                "file": "_posts/블로그 개설 내용.md"
               }
             }
           }
@@ -148,14 +148,15 @@
   },
   "active": "dbcf6f0fb9abf9f7",
   "lastOpenFiles": [
+    "_posts/2024-03-20-markdown.md",
+    "_posts/블로그 개설 내용.md",
+    "_posts/2023-03-20-blog.md",
     "_posts/images/free-icon-blog-3959542.png",
     "_posts/images",
     "free-icon-blog-3959542.png",
-    "_posts/2024-03-20-markdown.md",
     "_posts/cat-323262.jpg",
     "_posts/images",
     "_posts/TIL",
-    "_posts/무제 파일.md",
     "_posts/Pasted image 20240321094704.png",
     "_posts/2024-03-20-markdown-2.md",
     "README.md",
@@ -191,7 +192,6 @@
     "_posts/2012-03-15-layout-more-tag.md",
     "_posts/2012-03-15-layout-header-overlay-image.md",
     "_posts/2012-03-15-layout-header-overlay-image-tagline.md",
-    "docs/screenshot.png",
     "docs/_data/comments/welcome-to-jekyll/comment-1529792272424.yml",
     "docs/_data/comments/welcome-to-jekyll/comment-1529794012288.yml",
     "docs/_data/comments/welcome-to-jekyll/comment-1507141538771.yml"
