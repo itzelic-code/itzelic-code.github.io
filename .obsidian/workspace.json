@@ -148,6 +148,8 @@
   },
   "active": "dbcf6f0fb9abf9f7",
   "lastOpenFiles": [
+    "_pages/category-archive.md",
+    "_pages",
     "CNAME",
     "assets/images/profile-image.jpg",
     "assets/images/미모티콘_2.jpg",
@@ -192,8 +194,6 @@
     "_posts/2012-03-15-layout-sidebar-nav-list.md",
     "_posts/2012-03-15-layout-sidebar-custom.md",
     "_posts/2012-03-15-layout-more-tag.md",
-    "_posts/2012-03-15-layout-header-overlay-image.md",
-    "docs/_data/comments/welcome-to-jekyll/comment-1529792272424.yml",
-    "docs/_data/comments/welcome-to-jekyll/comment-1529794012288.yml"
+    "_posts/2012-03-15-layout-header-overlay-image.md"
   ]
 }
