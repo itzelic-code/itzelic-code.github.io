@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/블로그 개설 내용.md",
+                "file": "_posts/language/2024-03-20-markdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/블로그 개설 내용.md",
+                "file": "_posts/language/2024-03-20-markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/블로그 개설 내용.md",
+                "file": "_posts/language/2024-03-20-markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/블로그 개설 내용.md"
+                "file": "_posts/language/2024-03-20-markdown.md"
               }
             }
           }
@@ -146,16 +146,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "dbcf6f0fb9abf9f7",
+  "active": "cdf6f145a3f1d698",
   "lastOpenFiles": [
+    "_posts/블로그 개설 내용.md",
+    "_pages/tag-archive.md",
+    "_posts/language",
     "_pages/category-archive.md",
     "_pages",
     "CNAME",
     "assets/images/profile-image.jpg",
     "assets/images/미모티콘_2.jpg",
     "assets/images",
-    "_posts/2024-03-20-markdown.md",
-    "_posts/블로그 개설 내용.md",
+    "_posts/language/2024-03-20-markdown.md",
     "_posts/2023-03-20-blog.md",
     "_posts/images/free-icon-blog-3959542.png",
     "_posts/images",
@@ -176,7 +178,6 @@
     "_posts/images",
     "Untitled.canvas",
     "2024-03-20.md",
-    "_posts",
     "_posts/2017-11-28-post-exclude-search.md",
     "_posts/2017-01-23-layout-header-video.md",
     "_posts/2016-10-06-gemified-theme-beta.md",
@@ -193,7 +194,6 @@
     "_posts/2012-05-22-markup-text-readability-wide-page.md",
     "_posts/2012-03-15-layout-sidebar-nav-list.md",
     "_posts/2012-03-15-layout-sidebar-custom.md",
-    "_posts/2012-03-15-layout-more-tag.md",
-    "_posts/2012-03-15-layout-header-overlay-image.md"
+    "_posts/2012-03-15-layout-more-tag.md"
   ]
 }
