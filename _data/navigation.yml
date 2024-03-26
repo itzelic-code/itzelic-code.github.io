@@ -9,7 +9,7 @@ main:
     url: /search/
   
 docs:
-  - title: "개발"
+  - title: "대목차1"
     children:
       - title: "language"
         url: /categories/language
