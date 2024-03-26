@@ -9,14 +9,14 @@ main:
     url: /search/
   
 docs:
-  - title: "대목차1"
+  - title: "카테고리"
     children:
       - title: "language"
-        url: /categories/language
+        url: /language/
       - title: "Tag"
         url: /tags/
     
-  - title: "대목차2"
+  - title: "카테고리"
     children:
       - title: "Category"
         url: /categories/
