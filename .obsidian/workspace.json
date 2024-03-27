@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/language/2024-03-20-markdown.md",
+                "file": "_posts/TIL/2024-03-20-TIL.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:edge",
+                "query": "tag:마크다운",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/language/2024-03-20-markdown.md",
+                "file": "_posts/TIL/2024-03-20-TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/language/2024-03-20-markdown.md",
+                "file": "_posts/TIL/2024-03-20-TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/language/2024-03-20-markdown.md"
+                "file": "_posts/TIL/2024-03-20-TIL.md"
               }
             }
           }
@@ -148,6 +148,13 @@
   },
   "active": "dbcf6f0fb9abf9f7",
   "lastOpenFiles": [
+    "_posts/language/2024-03-20-markdown.md",
+    "_posts/TIL/2024-03-20-TIL.md",
+    "_posts/TIL/2024-03-21-TIL.md",
+    "_posts/TIL/2024-03-22-TIL.md",
+    "_posts/TIL/2024-03-23-TIL.md",
+    "_posts/TIL/2024-03-25-TIL.md",
+    "_posts/TIL/2024-03-26-TIL.md",
     "google4c1d63fd1a7714af.html",
     "_pages/image404.png",
     "_pages/404.md",
@@ -160,7 +167,6 @@
     "assets/images/profile-image.jpg",
     "assets/images/미모티콘_2.jpg",
     "assets/images",
-    "_posts/language/2024-03-20-markdown.md",
     "_posts/2023-03-20-blog.md",
     "_posts/images/free-icon-blog-3959542.png",
     "_posts/images",
@@ -177,7 +183,6 @@
     "images/${filename}",
     "Pasted image 20240320214122.png",
     "_posts/images/Pasted image 20240320213006.png",
-    "_posts/images",
     "Untitled.canvas",
     "2024-03-20.md",
     "_posts/2017-11-28-post-exclude-search.md",
@@ -189,11 +194,6 @@
     "_posts/2013-05-22-markup-more-images.md",
     "_posts/2013-01-11-markup-html-tags-and-formatting.md",
     "_posts/2013-01-10-markup-image-alignment.md",
-    "_posts/2013-01-09-markup-text-alignment.md",
-    "_posts/2013-01-05-markup-title-with-special-characters.md",
-    "_posts/2013-01-05-markup-title-with-markup.md",
-    "_posts/2012-05-22-markup-text-readability.md",
-    "_posts/2012-05-22-markup-text-readability-wide-page.md",
-    "_posts/2012-03-15-layout-sidebar-nav-list.md"
+    "_posts/2013-01-09-markup-text-alignment.md"
   ]
 }
