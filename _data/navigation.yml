@@ -11,10 +11,10 @@ main:
 docs:
   - title: "카테고리"
     children:
-      - title: "language"
-        url: /language/
-      - title: "Tag"
-        url: /tags/
+      - title: "Language"
+        url: /categories/#language
+      - title: "TIL"
+        url: /categories/#til
     
   - title: "카테고리"
     children:

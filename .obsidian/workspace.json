@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/TIL/2024-03-20-TIL-hanghae1.md",
+                "file": "_posts/TIL/2024-03-29-TIL-hanghae9.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/TIL/2024-03-20-TIL-hanghae1.md",
+                "file": "_posts/TIL/2024-03-29-TIL-hanghae9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/TIL/2024-03-20-TIL-hanghae1.md",
+                "file": "_posts/TIL/2024-03-29-TIL-hanghae9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/TIL/2024-03-20-TIL-hanghae1.md"
+                "file": "_posts/TIL/2024-03-29-TIL-hanghae9.md"
               }
             }
           }
@@ -148,12 +148,17 @@
   },
   "active": "dbcf6f0fb9abf9f7",
   "lastOpenFiles": [
+    "_posts/TIL/2024-03-28-TIL-hanghae8.md",
+    "_posts/TIL/2024-03-29-TIL-hanghae9.md",
+    "_posts/TIL/2024-03-27-TIL-hanghae7.md",
+    "_posts/TIL/2024-03-26-TIL-hanghae6.md",
+    "_posts/baekjoon/2024-03-27-baekjoon-2438.md",
+    "_posts/baekjoon",
     "_posts/TIL/2024-03-21-TIL-hanghae2.md",
+    "_posts/TIL/2024-03-20-TIL-hanghae1.md",
     "_posts/TIL/2024-03-22-TIL-hanghae3.md",
     "_posts/TIL/2024-03-23-TIL-hanghae4.md",
     "_posts/TIL/2024-03-25-TIL-hanghae5.md",
-    "_posts/TIL/2024-03-26-TIL-hanghae6.md",
-    "_posts/TIL/2024-03-20-TIL-hanghae1.md",
     "_posts/language/2024-03-20-markdown.md",
     "google4c1d63fd1a7714af.html",
     "_pages/image404.png",
@@ -180,7 +185,6 @@
     "images/Pasted.md",
     "_posts/images",
     "Pasted image 20240321094607.png",
-    "images/${filename}",
     "Pasted image 20240320214122.png",
     "_posts/images/Pasted image 20240320213006.png",
     "Untitled.canvas",
@@ -190,10 +194,6 @@
     "_posts/2016-10-06-gemified-theme-beta.md",
     "_posts/2016-09-21-gemified-theme-alpha.md",
     "_posts/2016-02-24-welcome-to-jekyll.md",
-    "_posts/2013-08-16-markup-syntax-highlighting.md",
-    "_posts/2013-05-22-markup-more-images.md",
-    "_posts/2013-01-11-markup-html-tags-and-formatting.md",
-    "_posts/2013-01-10-markup-image-alignment.md",
-    "_posts/2013-01-09-markup-text-alignment.md"
+    "_posts/2013-08-16-markup-syntax-highlighting.md"
   ]
 }
