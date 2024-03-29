@@ -1,5 +1,5 @@
 # main links
-# main links
+
 main:
   - title: "Category"
     url: /categories/
@@ -9,19 +9,21 @@ main:
     url: /search/
   
 docs:
-  - title: "카테고리"
+  - title: "매일매일"
+    children:
+      - title: "TIL"
+        url: /categories/#til
+      - title: "Baekjoon"
+        url: /categories/#baekjoon
+    
+  - title: "개발공부"
     children:
       - title: "Language"
         url: /categories/#language
-      - title: "TIL"
-        url: /categories/#til
-    
-  - title: "카테고리"
-    children:
-      - title: "Category"
-        url: /categories/
-      - title: "Tag"
-        url: /tags/
+      - title: "Spring"
+        url: /categories/#spring
+      - title: "Algorithm"
+        url: /categories/#algorithm
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
